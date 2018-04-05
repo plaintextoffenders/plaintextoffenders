@@ -113,7 +113,6 @@ nationalfurnituresupply.com
 lentimania.it
 lolipop.ch
 soymicontador.mx
-beautiful&lt;nospace&gt;halo.comcom
 opalbusiness.net
 peppers.com.au
 partridgeshadleigh.co.uk
@@ -2132,7 +2131,6 @@ fringefestival.org
 crocweb.com
 cybertonic.com
 domaining.com
-v
 livephish.com
 nugs.net
 westsiderentals.com
@@ -2173,7 +2171,6 @@ st701.com
 cardwale.com
 jeevansaathi.com
 infonegocios.info
-
 sportscommissions.org
 adclarity.com
 running2win.com
@@ -2196,7 +2193,6 @@ etax8849.com
 yakshna.com
 primaryecp.com
 fundraiseonline.co.nz
-
 buyinvite.com.au
 fiveten.com
 fivetenshop.com
@@ -2238,7 +2234,6 @@ leseditionsdunet.fr
 choicehotels.com
 simplesafe.net
 rockrun.com
-n
 odenseskolefoto.dk
 ukecigstore.com
 worldpay.com
@@ -2298,7 +2293,6 @@ sandhillseast.co.uk
 sandhillspacific.com.au
 truckpaper.com
 auctiontime.com
-
 onehourtranslation.com
 vetstreet.com
 khsmide.se
@@ -2458,7 +2452,6 @@ absorblms.com
 easyspace.com
 tertiaryedition.com.au
 educationedition.com.au
-
 cheapdomains.com.au
 stratton.com
 strattonfinance.com.au
@@ -2771,7 +2764,6 @@ stievie.be
 creditkarma.com
 goshow.co.il
 icmodus.com
-
 vibramfivefingers.com
 wetherspoonjobs.co.uk
 taxiforsure.com
@@ -2809,7 +2801,6 @@ consciousbox.com
 illutia.com
 redboxinstant.com
 v3.mdlandrec.net
-
 webtickets.co.za
 torguard.net
 silkbody.co.uk
@@ -2851,7 +2842,6 @@ escapade.co.uk
 avalonaccess.com
 pressmart.com
 biochemdistribution.co
-
 ventrachicago.com
 ptcb.org
 accela.com
@@ -2866,7 +2856,6 @@ global-pix.com
 marathon-photos.com
 logicaloperations.com
 talongungrips.com
-
 theater-am-kaefigturm.ch
 vieraconnect.com
 datasport.com
@@ -2874,7 +2863,6 @@ pharmaca.com
 arbico.co.uk
 pleygo.com
 boyfriend.dk
-
 storskrald.dk
 llnw.com
 uhaulstorage.com
@@ -2883,7 +2871,6 @@ sos.state.tx.us
 ledhut.co.uk
 diveassure.com
 unioncentrics.com
-
 pressmo.com
 greateducation.co.uk
 digitalrowing.com
@@ -2985,11 +2972,9 @@ ticketscene.ca
 ticketscene.com
 musicmagpie.co.uk
 go2arena.com
-ScanSource is a provider of professional hardware.
 myheritage.com
 complyguardnetworks.com
 pcitesting.com
-
 ltkalmar.se
 ako.nl
 truethemes.net
@@ -3266,6 +3251,7 @@ c-sharpcorner.com
 vbdotnetheaven.com
 dotnetheaven.com
 longhorncorner.com
+scansource.fastcatalog.net
 iomoio.com
 intelligentsiacoffee.com
 techmahindra.com
@@ -3814,7 +3800,6 @@ shieldthevulnerable.org
 toms.com
 foreignaffairs.com
 pearsonmylabandmastering.com
-
 ziggo.nl
 uploaded.net
 cmstore-usa.com
@@ -3974,7 +3959,8 @@ gunnars.com
 phytoreponse.fr
 yogabasics.com
 docstoc.com
-talkpoint.com / video.webcasts.com
+talkpoint.com
+video.webcasts.com
 wunderlist.com
 dom.com
 dailyrazor.com
@@ -4018,7 +4004,7 @@ jdate.com
 hostelworld.com
 mobosurvey.com
 TPG.com.au
-internode.on.net (the internode.com.au in the attached email redirects there now)
+internode.on.net
 hostingmetro.com
 testdrivesakai.com
 renault.nl
@@ -4096,7 +4082,7 @@ questionpro.com
 ramhost.us
 direct.asda.com
 dd-wrt.com
-alumniconnections.com/olc/pub/UUV/register/register.cgi
+alumniconnections.com
 theheart.org
 snapfish.nl
 informit.com
@@ -4107,7 +4093,7 @@ motu.com
 edgar-online.com
 populuslive.com
 tivoli.nl
-citrix.com/mycitrix
+citrix.com
 mobilicidade.com.br
 aldirecruitment.co.uk
 johnlewispartnership.co.uk
@@ -4236,7 +4222,8 @@ hrsmart.com
 thatsmyface.com
 idfa.nl
 joomla.org
-nikeplus.com / nikerunning.nike.com
+nikeplus.com
+nikerunning.nike.com
 e-germanos.gr
 pathe.nl
 targetjobs.co.uk
@@ -4248,13 +4235,15 @@ multiphoto.ru
 sapato.ru
 proboknet.com
 seopult.ru
-121spanish.com (timelybooking.com)
+121spanish.com
+timelybooking.com
 allrecipes.co.uk
 searchsecurity.com
 techtarget.com
 sparqcode.com
 groceryiq.com
-electricchoice.com (utilitychoice.com)
+electricchoice.com
+utilitychoice.com
 maxspann.com
 GameTracker.com
 philly.com
@@ -4289,7 +4278,7 @@ truphone.com
 pinnaclesys.com
 whatisblik.com
 fotopost24.de
-T-Mobile.com sends your full plain text password to you as a &ldquo;reminder&rdquo; of your password.
+t-mobile.com
 printerpix.co.uk
 printerpix.com
 printerpix.es
@@ -4410,7 +4399,8 @@ ancestry.se
 gk2gk.com
 buylogitech.com
 jobscentral.com.sg
-deloitte.com / fast50.co.uk
+deloitte.com
+fast50.co.uk
 cwcs.co.uk
 mobisms.com
 jimdo.com
@@ -4450,8 +4440,8 @@ prospects.ac.uk
 pcpitstop.com
 tigerdirect.com
 tigerdirect.ca
-oldnavy.com (also gap.com
-etc)
+oldnavy.com
+gap.com
 ft.com
 scholarsresource.com
 bestwestern.com
@@ -4563,8 +4553,7 @@ planetcostume.com
 Rent.com
 eNom.com
 friendster.com
-Deniath.com is an invite-only website that sells geeky items at a discount
-much like woot.com.
+deniath.com
 tinhouse.com
 ooVoo.com
 neopets.com
@@ -4587,29 +4576,23 @@ Blacknight.com
 datingbuzz.co.uk
 newegg.com
 nd.ru
-It&rsquo;s a bit hard to tell
-since the URL is a local IP address
-but this is from BART&rsquo;s in-station WiFi system (provided by
 macys.com
 parkmobile.com
 beerandbeyond.com
 Guardian.co.uk
 dietitians.ca
 zipzoom.com
-Travel credit from WetJet
-a Canadian airline. Bonus broken image.
+westjet.com
 comodo.com
-This greets me every time I log into BuildingLink.com.
 tweetbig.com
 jetblue.com
 just-eat.co.uk
 mediapost.com
 TokyoFlash.com
 pss-piter.org
-Radiohead online ordering system.
-askmen.com - A Men&rsquo;s Online Magazine
+askmen.com
 wog.ch
-Digitec.ch is the largest swiss electronics seller.
+Digitec.ch
 burningshed.com
 veoliaes.com
 pringoo.com
@@ -4621,20 +4604,18 @@ eppe.nu
 discover.com
 virginmobile.co.uk
 surveymonkey.com
-Mailman
-the GNU Mailing List Manager
 superjob.ru
 goldenshara.com
 motorussia.ru
 cifracom.ru
 003.ru
 muellerspasta.com
-Takeaway.com / Thuisbezorgd.nl
+Takeaway.com
+Thuisbezorgd.nl
 chicagooperatheater.org
 asiaxpat.com
 santrex.net
 tadalist.com
-ApplyYourself displays your pin and password.
 gumtree.com
 gumtree.ie
 gumtree.com.au
@@ -4683,14 +4664,10 @@ PortableOne.com
 discovercard.com
 AshleyMadison.com
 Yak.ca
-where I can change my billing information
-see a list of calls
-etc.
 Dealnews.com
 thepiratebay.com
 hover.com
 tesco.co.uk
-SonyEricsson was happy to send me my password back to me :p
 reliancecomfort.com
 hover.com
 firstcapitalconnect.co.uk
