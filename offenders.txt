@@ -38,7 +38,6 @@ firstcapitalconnect.co.uk
 hover.com
 reliancecomfort.com
 tesco.co.uk
-hover.com
 thepiratebay.com
 Dealnews.com
 Yak.ca
@@ -189,7 +188,6 @@ eccouncil.org
 textbroker.com
 48HoursLogo.com
 imusic.co.il
-ipanel.co.il
 projectlocker.com
 megamek.info
 clubpenguin.com
@@ -282,7 +280,6 @@ butlins.com
 picstop.co.uk
 youlicense.com
 tek-tips.com
-1and1.co.uk
 fitlinxx.com
 bittads.com
 worldwidephotowalk.com
@@ -349,13 +346,11 @@ flatworldknowledge.com
 cbcf.org
 webstudio.com
 politicshome.com
-pearsoned.com
 famecinemas.com
 nus.org.uk
 marvel.com
 ucas.com
 bbcgoodfood.com
-python.org
 jimmyjohns.com
 post.dk
 singleswarehouse.co.uk
@@ -408,7 +403,6 @@ pizzahut.com
 companies-house.gov.uk
 drivesisley.com
 sisleyhonda.com
-dixons.co.uk
 e-academy.com
 troopmasterweb.com
 hyperspin.com
@@ -426,7 +420,6 @@ staradvertiser.com
 printerpix.es
 printerpix.com
 printerpix.co.uk
-t-mobile.com
 fotopost24.de
 whatisblik.com
 pinnaclesys.com
@@ -588,7 +581,6 @@ payforit.net
 pghcareerconnector.com
 aionfreetoplay.com
 gotsoccer.com
-zennioptical.com
 swimweargalore.com.au
 forum.openframeworks.cc
 JustBet.cx
@@ -944,7 +936,6 @@ geostore.com
 tomtom.com
 easyhotel.com
 tfl.gov.uk
-astraweb.com
 estaronline.com
 briscoes.co.nz
 engageya.com
@@ -1056,7 +1047,6 @@ ragnsells.se
 luxmi.net
 imageshack.us
 essaywriters.net
-lifeproof.com
 vailresorts.com
 jawbone.com
 mathway.com
@@ -1083,7 +1073,6 @@ kentico.com
 sendoutcards.com
 express.com
 elfontheshelf.com
-btguard.com
 symprex.com
 thelevelup.com
 rawcomedy.se
@@ -1115,7 +1104,6 @@ poweryourtrade.com
 waterstones.com
 spaceworld.no
 ada.org
-thekeyonline.com
 beersofeurope.co.uk
 makeupalley.com
 artsmia.org
@@ -1139,7 +1127,6 @@ pinger.com
 sendtoreader.com
 infrenion.com
 makershed.com
-livedownloads.com
 bathstore.com
 americangreetings.com
 igive.com
@@ -1207,7 +1194,6 @@ syspro.com
 surecheck.net
 abc.net.au
 thechillipicklecanteen.com
-gchq.gov.uk
 mathxlforschool.com
 deathbycaptcha.com
 onlandscape.co.uk
@@ -1227,7 +1213,6 @@ tolly.com
 eclipse.net.uk
 shadowserver.org
 portmerch.com
-mikogo.com
 textmagic.com
 gaming.fi
 firstfedevansville.com
@@ -1461,7 +1446,6 @@ c-sharpcorner.com
 schuh.co.uk
 nb.mit.edu
 g2play.net
-ben.nl
 alienwarearena.com
 stormwatches.com
 scotlandis.com
@@ -1496,7 +1480,6 @@ halifaxfantasytrader.co.uk
 berlinwhiskyandwine.com
 stethoscope.com
 topmaq.co.nz
-santanderbillpayment.co.uk
 gaijinent.com
 nybgshop.org
 nybg.org
@@ -1708,7 +1691,6 @@ greenboxday.co.uk
 redwolfairsoft.com
 enrich.malaysiaairlines.com
 ezsniper.com
-westjet.com
 ciboespresso.redcat.com.au
 goozex.com
 qualitywindowscreen.com
@@ -2031,7 +2013,6 @@ readyflowers.com.au
 readyflowers.com.sg
 readyflowers.com.hk
 readyflowers.co.nz
-readyflowers.com.au
 readyflowers.com
 batterioutlet.no
 batterioutlet.se
@@ -2121,7 +2102,6 @@ parcelforce.co.uk
 parcelforce.net
 parcelforce.com
 host2170.net
-teleticketservice.com
 ebankhost.net
 friendbank.net
 realestateview.com.au
@@ -2194,7 +2174,6 @@ jobsinkent.com
 barclayswine.com
 publicstorage.com
 columbus.gov
-aepohio.com
 aep.com
 bluehill.lib.me.us
 openadr.org
@@ -2297,7 +2276,6 @@ schneider-electric.com
 pizzahut.co.nz
 siff.net
 panthur.com.au
-techtarget.com
 microworks.com
 fourstarpizza.ie
 fourstarpizza.co.uk
@@ -2551,7 +2529,6 @@ voletshop.fr
 cnrs.fr
 annee-philologique.com
 4wd.com
-publicstorage.com
 realtysouth.com
 sureelectronics.net
 sure-electronics.com
@@ -2790,7 +2767,6 @@ dommel.be
 jomsocial.com
 pollutionprobe.org
 cleanaircommute.ca
-westsiderentals.com
 zoolert.com
 melodygenerator.com
 paddlepop.com.au
@@ -3020,8 +2996,6 @@ pizzaexpress.in
 pizzaexpress.com.hk
 pizzaexpress.com
 toxicfox.co.uk
-buylogitech.com
-digitalriver.com
 logitech.com
 amigosecreto.com.br
 sonos.com
@@ -3461,7 +3435,6 @@ torproject.org
 cds2helpdesk.com
 iris.ed.gov
 extendcp.com
-fasthostingdirect.co.uk
 pwmnet.com
 roommatesuk.com
 wedeliverlocal.co.uk
@@ -3582,8 +3555,6 @@ skillsusa-register.org
 digitalvoice.nielsen.com
 springer.com
 ariessys.com
-edmgr.com
-editorialmanager.com
 b-riders.nl
 kissthisguy.com
 parrot.fr
@@ -3692,7 +3663,6 @@ lkf.se
 ricoh-usa.com
 myricoh.com
 dreamscapenetworks.com
-crazydomains.com.au
 secureapi.com.au
 battleping.com
 tagheuer.com
@@ -3717,7 +3687,6 @@ gokickball.com
 huk.de
 transfirst.com
 hotelnewsnow.com
-thesource.ca
 openhousemelbourne.org
 moneyweb.co.za
 virtualnorwegian.net
@@ -3923,7 +3892,6 @@ isagenixcorp.com
 isagenix.com
 helptobuysouth.co.uk
 macmillanhighered.com
-bfwpub.com
 gadgetfix.com
 knitting4fun.com
 knitproneedles.co.uk
@@ -3934,7 +3902,6 @@ stewart.com
 spigen.co.uk
 boots.com
 buyvouchers.net
-wiley.com
 wileyplus.com
 8minutedating.com
 andertons.co.uk
@@ -4205,7 +4172,6 @@ kelsey.co.uk
 waco-texas.com
 pcnation.co.uk
 icollege.co
-wbmason.com
 ams.com
 myezyaccess.com
 neupart.com
@@ -4243,7 +4209,6 @@ austin.net.au
 williamhill.com.au
 escapade-carnevale.it
 escapade-kostueme.com
-escapade.co.uk
 gethuawei.com
 tds.gb.com
 umass.edu
@@ -4277,7 +4242,6 @@ homeimprovementpages.com.au
 wierookshop.eu
 lifeintheuk.net
 atw.hu
-gotprint.net
 urpowered.com
 easily.co.uk
 rssfeedconverter.com
@@ -4489,7 +4453,6 @@ alkaviva.com
 emaillistverify.com
 ecollege.com
 wowmatcher.com
-embarcadero.com
 versio.nl
 iafstore.com
 uptimerobot.com
@@ -4546,7 +4509,6 @@ growtopia1.com
 growtopiagame.com
 yowinner.com
 wongwingpromo.ca
-thermaltakeusa.com
 webkinz.com
 minlaering.dk
 minlæring.dk
@@ -4572,7 +4534,6 @@ ice.it
 multivista.com
 lidirect.co.uk
 laspesasemplice.it
-letsget.net
 directheatingsupplies.co.uk
 thepharmacy.com.au
 duplichecker.com
@@ -4621,17 +4582,14 @@ agabag.com
 lhd.litera.com
 infinitymotorcycles.com
 jobs.lucasfilm.com
-points2shop.com
 mobaxterm.mobatek.net
 rosegal.com
 lewermark.com
 lewer.com
 globalpenfriends.com
-comodo.com
 511nj.org
 avaresearch.com.au
 webcity.com.au
-kizoa.com
 DiplomaSender.com
 mobile.free.fr
 retrofix.com.au
@@ -4647,8 +4605,6 @@ theweedtube.com
 sdsprovider.com
 msdsprovider.com
 ftocapital.com
-birthrightisrael.com
-forumotion.com
 securityid.com.au
 instantoffices.com
 thehouseshop.com
